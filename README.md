@@ -2,6 +2,6 @@
 
 This is a simple readme file
 
-##heading 2
+#heading 2
 
-Cusding more trouble
+Nothing to see here
